@@ -1,0 +1,17 @@
+{
+ "dataset": "banking77",
+ "method": "fs-qwen3-8B",
+ "run": "k32_s0",
+ "acc": 0.9006493506493507,
+ "macro_f1": 0.9004348146242199,
+ "ece": 0.08447764806159125,
+ "n_train": 2463,
+ "shots": 10,
+ "infer_gpu_sec": 697.8169344970956,
+ "n_test": 3080,
+ "gpus": 1,
+ "val_gpu_sec": 229.8394359969534,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

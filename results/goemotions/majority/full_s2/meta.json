@@ -1,0 +1,14 @@
+{
+ "dataset": "goemotions",
+ "method": "majority",
+ "run": "full_s2",
+ "acc": 0.3498910675381264,
+ "macro_f1": 0.018514248824126164,
+ "ece": 0.6501089324618736,
+ "n_train": 36094,
+ "train_sec": 0.0,
+ "infer_sec": 0.0,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

@@ -1,0 +1,18 @@
+{
+ "dataset": "banking77",
+ "method": "modernbert-lr0.0001",
+ "run": "k32_s1",
+ "acc": 0.9029220779220779,
+ "macro_f1": 0.9030059326138603,
+ "ece": 0.030306858791933407,
+ "n_train": 2463,
+ "epochs": 8,
+ "lr": 0.0001,
+ "bs": 32,
+ "train_gpu_sec": 40.42066196911037,
+ "infer_gpu_sec": 0.5400026170536876,
+ "n_test": 3080,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

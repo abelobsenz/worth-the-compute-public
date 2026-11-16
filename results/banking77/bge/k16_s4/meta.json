@@ -1,0 +1,22 @@
+{
+ "dataset": "banking77",
+ "method": "bge",
+ "run": "k16_s4",
+ "acc": 0.8938311688311689,
+ "macro_f1": 0.894059755283226,
+ "ece": 0.3008163727287736,
+ "n_train": 1232,
+ "best": {
+  "C": 10,
+  "class_weight": "balanced"
+ },
+ "device": "gpu+cpu",
+ "train_sec": 3.472965510096401,
+ "train_gpu_sec": 0.448841448508203,
+ "infer_sec": 0.02611125190742314,
+ "infer_gpu_sec": 1.1103181310463697,
+ "n_test": 3080,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

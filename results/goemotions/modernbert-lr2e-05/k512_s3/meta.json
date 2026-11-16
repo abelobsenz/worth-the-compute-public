@@ -1,0 +1,18 @@
+{
+ "dataset": "goemotions",
+ "method": "modernbert-lr2e-05",
+ "run": "k512_s3",
+ "acc": 0.45751633986928103,
+ "macro_f1": 0.4400030696164846,
+ "ece": 0.16907775063140718,
+ "n_train": 11847,
+ "epochs": 3,
+ "lr": 2e-05,
+ "bs": 32,
+ "train_gpu_sec": 70.49648381699808,
+ "infer_gpu_sec": 1.2515886940527707,
+ "n_test": 4590,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

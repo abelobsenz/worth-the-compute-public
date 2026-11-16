@@ -1,0 +1,20 @@
+{
+ "dataset": "banking77",
+ "method": "tfidf",
+ "run": "k32_s2",
+ "acc": 0.825,
+ "macro_f1": 0.8249594659366792,
+ "ece": 0.12141827551478693,
+ "n_train": 2463,
+ "best": {
+  "C": 100,
+  "class_weight": "balanced"
+ },
+ "device": "cpu",
+ "train_sec": 9.105826750863343,
+ "infer_sec": 0.039271817076951265,
+ "n_test": 3080,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

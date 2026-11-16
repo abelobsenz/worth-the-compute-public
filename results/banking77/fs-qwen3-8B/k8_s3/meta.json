@@ -1,0 +1,17 @@
+{
+ "dataset": "banking77",
+ "method": "fs-qwen3-8B",
+ "run": "k8_s3",
+ "acc": 0.7814935064935065,
+ "macro_f1": 0.7804098138419662,
+ "ece": 0.17339758201465977,
+ "n_train": 616,
+ "shots": 10,
+ "infer_gpu_sec": 627.3961317749927,
+ "n_test": 3080,
+ "gpus": 1,
+ "val_gpu_sec": 0,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

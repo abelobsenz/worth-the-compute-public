@@ -1,0 +1,22 @@
+{
+ "dataset": "banking77",
+ "method": "lora-qwen3-8B",
+ "run": "k8_s2",
+ "acc": 0.8305194805194805,
+ "macro_f1": 0.8315630944001192,
+ "ece": 0.13026887777370297,
+ "n_train": 616,
+ "infer_gpu_sec": 234.08819710509852,
+ "n_test": 3080,
+ "val_gpu_sec": 76.64031956577674,
+ "train_gpu_sec": 387.4503971352242,
+ "epochs": 8,
+ "steps": 312,
+ "lr": 0.0002,
+ "bs": 16,
+ "r": 16,
+ "final_loss": 0.0006783201969460023,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

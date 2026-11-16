@@ -1,0 +1,41 @@
+dataset,budget,cheap_model,front_model_rule,signal,routed_f1,share_sent_to_llm
+banking77,32,bge,best on validation,msp,0.9183819438383797,0.04993506493506493
+banking77,32,bge,best on validation,msp_ts,0.9208891263202353,0.06499999999999999
+banking77,32,bge,best on validation,margin,0.9225354691318172,0.07688311688311687
+banking77,32,bge,best on validation,neg_entropy,0.9173698228538584,0.03324675324675324
+banking77,32,bge,best on validation,learned,0.9199898504259872,0.039675324675324676
+banking77,32,modernbert,ModernBERT,msp,0.9140762816118324,0.1968831168831169
+banking77,32,modernbert,ModernBERT,msp_ts,0.9140147105641745,0.18155844155844156
+banking77,32,modernbert,ModernBERT,margin,0.9144350436760345,0.1933116883116883
+banking77,32,modernbert,ModernBERT,neg_entropy,0.9144122785544393,0.17590909090909088
+banking77,32,modernbert,ModernBERT,learned,0.9216226332613469,0.09318181818181819
+banking77,all,modernbert,best on validation,msp,0.9443803244454936,0.06019480519480519
+banking77,all,modernbert,best on validation,msp_ts,0.9444445650044727,0.05136363636363637
+banking77,all,modernbert,best on validation,margin,0.9442430073646978,0.057272727272727274
+banking77,all,modernbert,best on validation,neg_entropy,0.9425856248228481,0.04967532467532468
+banking77,all,modernbert,best on validation,learned,0.9467085013583574,0.048701298701298704
+banking77,all,modernbert,ModernBERT,msp,0.9443803244454936,0.06019480519480519
+banking77,all,modernbert,ModernBERT,msp_ts,0.9444445650044727,0.05136363636363637
+banking77,all,modernbert,ModernBERT,margin,0.9442430073646978,0.057272727272727274
+banking77,all,modernbert,ModernBERT,neg_entropy,0.9425856248228481,0.04967532467532468
+banking77,all,modernbert,ModernBERT,learned,0.9467085013583574,0.048701298701298704
+goemotions,32,setfit,best on validation,msp,0.40772189284967864,0.5591285403050109
+goemotions,32,setfit,best on validation,msp_ts,0.40730942419977456,0.6027015250544662
+goemotions,32,setfit,best on validation,margin,0.40627291441871016,0.6061002178649237
+goemotions,32,setfit,best on validation,neg_entropy,0.403766390260505,0.5325054466230936
+goemotions,32,setfit,best on validation,learned,0.4049476293888851,0.5000435729847494
+goemotions,32,modernbert,ModernBERT,msp,0.3976345965950534,0.897211328976035
+goemotions,32,modernbert,ModernBERT,msp_ts,0.3982135720805198,0.916732026143791
+goemotions,32,modernbert,ModernBERT,margin,0.39849718748159674,0.9117211328976035
+goemotions,32,modernbert,ModernBERT,neg_entropy,0.39826320548488614,0.9094117647058825
+goemotions,32,modernbert,ModernBERT,learned,0.3987663467625654,0.9007407407407408
+goemotions,all,modernbert,best on validation,msp,0.5558742682766216,0.5166013071895426
+goemotions,all,modernbert,best on validation,msp_ts,0.5550264177134577,0.4776470588235294
+goemotions,all,modernbert,best on validation,margin,0.5525105788614931,0.4671459694989107
+goemotions,all,modernbert,best on validation,neg_entropy,0.5549406423627063,0.5579520697167756
+goemotions,all,modernbert,best on validation,learned,0.5499339034015153,0.42901960784313714
+goemotions,all,modernbert,ModernBERT,msp,0.5558742682766216,0.5166013071895426
+goemotions,all,modernbert,ModernBERT,msp_ts,0.5550264177134577,0.4776470588235294
+goemotions,all,modernbert,ModernBERT,margin,0.5525105788614931,0.4671459694989107
+goemotions,all,modernbert,ModernBERT,neg_entropy,0.5549406423627063,0.5579520697167756
+goemotions,all,modernbert,ModernBERT,learned,0.5499339034015153,0.42901960784313714

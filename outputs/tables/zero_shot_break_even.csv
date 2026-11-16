@@ -1,0 +1,4 @@
+dataset,target,label_usd,zero_shot_model,other_option,labels_needed,break_even_volume
+goemotions,0.3,0.01,zs-qwen3-32B,setfit @ 8,224.0,30149.92660457082
+goemotions,0.3,0.1,zs-qwen3-32B,setfit @ 8,224.0,300958.70353703044
+goemotions,0.3,1.0,zs-qwen3-32B,setfit @ 8,224.0,3009046.4728616267

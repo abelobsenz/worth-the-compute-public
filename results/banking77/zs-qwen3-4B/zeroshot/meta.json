@@ -1,0 +1,17 @@
+{
+ "dataset": "banking77",
+ "method": "zs-qwen3-4B",
+ "run": "zeroshot",
+ "acc": 0.6191558441558441,
+ "macro_f1": 0.6105971457501982,
+ "ece": 0.3448743646311295,
+ "n_train": 0,
+ "shots": 0,
+ "infer_gpu_sec": 335.2786955460906,
+ "n_test": 3080,
+ "gpus": 1,
+ "val_gpu_sec": 109.67361515201628,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

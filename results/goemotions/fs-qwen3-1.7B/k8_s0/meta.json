@@ -1,0 +1,17 @@
+{
+ "dataset": "goemotions",
+ "method": "fs-qwen3-1.7B",
+ "run": "k8_s0",
+ "acc": 0.10130718954248366,
+ "macro_f1": 0.09188267485763116,
+ "ece": 0.710506609760728,
+ "n_train": 224,
+ "shots": 10,
+ "infer_gpu_sec": 127.13688002433628,
+ "n_test": 4590,
+ "gpus": 1,
+ "val_gpu_sec": 125.73673010803759,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

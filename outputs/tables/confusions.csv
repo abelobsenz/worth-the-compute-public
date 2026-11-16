@@ -1,0 +1,9 @@
+dataset,true_label,predicted_label,mean_count,test_examples_of_true_label
+banking77,fiat currency support,exchange via app,4.6,40
+banking77,card arrival,card delivery estimate,4.6,40
+banking77,balance not updated after bank transfer,transfer not received by recipient,4.2,40
+banking77,balance not updated after bank transfer,transfer timing,3.8,40
+goemotions,approval,neutral,99.6,236
+goemotions,annoyance,neutral,83.0,194
+goemotions,disapproval,neutral,81.0,195
+goemotions,curiosity,neutral,51.8,176

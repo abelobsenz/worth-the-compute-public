@@ -1,0 +1,18 @@
+{
+ "dataset": "goemotions",
+ "method": "modernbert",
+ "run": "k16_s0",
+ "acc": 0.1812636165577342,
+ "macro_f1": 0.15170379704573742,
+ "ece": 0.29231751958529156,
+ "n_train": 448,
+ "epochs": 20,
+ "lr": 5e-05,
+ "bs": 32,
+ "train_gpu_sec": 18.188021870097145,
+ "infer_gpu_sec": 1.360717442119494,
+ "n_test": 4590,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

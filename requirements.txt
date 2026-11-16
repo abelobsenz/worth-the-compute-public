@@ -1,0 +1,13 @@
+# Python 3.10 or newer. The versions below are the ones the experiments were run with.
+torch==2.7.*
+transformers==4.57.*
+peft==0.17.*
+sentence-transformers==5.1.*
+setfit==1.1.*
+scikit-learn==1.7.*
+accelerate
+datasets
+numpy
+pandas
+scipy
+matplotlib

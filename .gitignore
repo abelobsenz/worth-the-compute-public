@@ -1,0 +1,10 @@
+# The score tables of every run (about 800 MB) are attached to the GitHub release instead of
+# being stored in git. See the README for how to download them.
+results/**/*.npy
+results/**/adapter/
+logs/
+venv/
+hf_cache/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,17 @@
+{
+ "dataset": "goemotions",
+ "method": "fs-qwen3-8B",
+ "run": "k128_s1",
+ "acc": 0.31241830065359477,
+ "macro_f1": 0.2718107853417227,
+ "ece": 0.4435665997317414,
+ "n_train": 3334,
+ "shots": 10,
+ "infer_gpu_sec": 405.0940697679762,
+ "n_test": 4590,
+ "gpus": 1,
+ "val_gpu_sec": 0,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

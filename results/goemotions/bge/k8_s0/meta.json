@@ -1,0 +1,22 @@
+{
+ "dataset": "goemotions",
+ "method": "bge",
+ "run": "k8_s0",
+ "acc": 0.21220043572984748,
+ "macro_f1": 0.19909408945294596,
+ "ece": 0.05853630010533696,
+ "n_train": 224,
+ "best": {
+  "C": 10,
+  "class_weight": "balanced"
+ },
+ "device": "gpu+cpu",
+ "train_sec": 7.830488550942391,
+ "train_gpu_sec": 0.10938021236913067,
+ "infer_sec": 0.05767974304035306,
+ "infer_gpu_sec": 2.0460677968803793,
+ "n_test": 4590,
+ "n_cpus": 8,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

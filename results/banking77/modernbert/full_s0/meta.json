@@ -1,0 +1,18 @@
+{
+ "dataset": "banking77",
+ "method": "modernbert",
+ "run": "full_s0",
+ "acc": 0.9327922077922078,
+ "macro_f1": 0.9328556888558991,
+ "ece": 0.01785481503934825,
+ "n_train": 9000,
+ "epochs": 3,
+ "lr": 5e-05,
+ "bs": 32,
+ "train_gpu_sec": 56.33784772409126,
+ "infer_gpu_sec": 0.5727752998936921,
+ "n_test": 3080,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5000",
+ "n_gpus": 1
+}

@@ -1,0 +1,20 @@
+{
+ "dataset": "goemotions",
+ "method": "tfidf",
+ "run": "k512_s3",
+ "acc": 0.37407407407407406,
+ "macro_f1": 0.39023808161304213,
+ "ece": 0.04761386762874319,
+ "n_train": 11847,
+ "best": {
+  "C": 10,
+  "class_weight": "balanced"
+ },
+ "device": "cpu",
+ "train_sec": 123.27428431110457,
+ "infer_sec": 0.06598405493423343,
+ "n_test": 4590,
+ "n_cpus": 4,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

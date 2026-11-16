@@ -1,0 +1,20 @@
+{
+ "dataset": "goemotions",
+ "method": "setfit",
+ "run": "k16_s3",
+ "acc": 0.3899782135076253,
+ "macro_f1": 0.3693465316083854,
+ "ece": 0.3257895656076132,
+ "n_train": 448,
+ "num_iterations": 20,
+ "best": {
+  "C": 100,
+  "class_weight": null
+ },
+ "train_gpu_sec": 80.284947586013,
+ "infer_gpu_sec": 2.1410976650658995,
+ "n_test": 4590,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

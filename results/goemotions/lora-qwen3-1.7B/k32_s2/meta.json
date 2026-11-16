@@ -1,0 +1,22 @@
+{
+ "dataset": "goemotions",
+ "method": "lora-qwen3-1.7B",
+ "run": "k32_s2",
+ "acc": 0.4287581699346405,
+ "macro_f1": 0.40594782216427194,
+ "ece": 0.3814242100598765,
+ "n_train": 896,
+ "infer_gpu_sec": 33.401346381986514,
+ "n_test": 4590,
+ "val_gpu_sec": 32.81229241902474,
+ "train_gpu_sec": 128.66493891598657,
+ "epochs": 6,
+ "steps": 336,
+ "lr": 0.0002,
+ "bs": 16,
+ "r": 16,
+ "final_loss": 0.005817220311395691,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}

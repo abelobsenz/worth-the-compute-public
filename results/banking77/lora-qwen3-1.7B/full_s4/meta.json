@@ -1,0 +1,22 @@
+{
+ "dataset": "banking77",
+ "method": "lora-qwen3-1.7B",
+ "run": "full_s4",
+ "acc": 0.9347402597402598,
+ "macro_f1": 0.9345933723634227,
+ "ece": 0.020062099910014616,
+ "n_train": 9000,
+ "infer_gpu_sec": 64.45334994699806,
+ "n_test": 3080,
+ "val_gpu_sec": 21.12169729010202,
+ "train_gpu_sec": 487.7270136498846,
+ "epochs": 2,
+ "steps": 1126,
+ "lr": 0.0002,
+ "bs": 16,
+ "r": 16,
+ "final_loss": 0.04159820919906469,
+ "n_cpus": 2,
+ "gpu": "NVIDIA RTX A5500",
+ "n_gpus": 1
+}
